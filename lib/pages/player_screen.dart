@@ -304,6 +304,7 @@ class _PlayerScreenState extends State<PlayerScreen>
           exact: true,
           wakeup: true,
         );
+        // if
       } else {
         print('Failed to set ringtone');
       }
